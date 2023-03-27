@@ -10,6 +10,6 @@
 https://ceccy-ope.github.io/Chessboard/
 
 
-  ![chessboard](./image.PNG)
+  ![chessboard](./image1.PNG)
  
 
